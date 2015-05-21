@@ -1,2 +1,4 @@
 # bbtestrepo
-Getting familiar with giithub
+Getting familiar with github
+gonna write some code, hopefully contribute to open source projects.
+
